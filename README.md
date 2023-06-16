@@ -1,4 +1,3 @@
-
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
@@ -21,7 +20,6 @@
 
 This is a simple ruby project that decodes any Morse code o regular English String.
 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -38,7 +36,6 @@ This is a simple ruby project that decodes any Morse code o regular English Stri
 ### Key Features <a name="key-features"></a>
 
 - **Own Enumerable Module**
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,6 +60,7 @@ rbenv install 3.0.1
 rbenv global 3.0.1
 ruby -v
 ```
+
 Installing Ruby on Windows is a little more difficult than installing it on another OS. We would recommend using [WSL](https://learn.microsoft.com/en-us/windows/wsl/about), but you can also try to install Ruby directly on your OS with [rubyinstaller](https://rubyinstaller.org/).
 
 Note:
@@ -83,7 +81,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git  https://github.com/Rana-Mudassir/decode_morse_code.git
+  git  https://github.com/saluumaa/Enumerable.git
 ```
 
 ### Usage
@@ -99,25 +97,31 @@ Thats it now you can execute your program on terminal:)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
 
 ## 👥 Authors
- <a name="author"></a>
+
+<a name="author"></a>
 👤 **TayyabKM**
 
 - Github: [@TayyabKM](https://github.com/TayyabKM)
 - Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
 - Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="author"></a>
+👤 **Salma Ibrahim**
+
+- GitHub: [@Saluumaa](https://github.com/saluumaa)
+- Twitter: [@SalmaHIbrahim20](https://twitter.com/SalmaHIbrahim20)
+- LinkedIn: [Salma ibrahim](https://www.linkedin.com/in/salma-ibrahim-78bb5a14a/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Live Demo]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🤝 Contributing <a name="contributing"></a>
 

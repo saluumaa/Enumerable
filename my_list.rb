@@ -7,8 +7,8 @@ class MyList
     @list = list
   end
 
-  def each
-    @list.each { |n| yield n }
+  def each(&block)
+    @list.each(&block)
   end
 end
 
