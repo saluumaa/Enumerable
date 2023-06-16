@@ -18,7 +18,7 @@
 
 # 📖 [Decode morse code] <a name="about-project"></a>
 
-This is a simple ruby project that decodes any Morse code o regular English String.
+The Enumerable project typically involves implementing the Enumerable module's methods in a custom class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
